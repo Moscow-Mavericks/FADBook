@@ -19,3 +19,4 @@ six==1.15.0
 statsmodels==0.12.1
 wincertstore==0.2
 jupyter-book==0.7.0
+sphinxcontrib-bibtex==1.0.0
