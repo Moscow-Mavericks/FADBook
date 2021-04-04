@@ -1,2 +1,5 @@
-file: Hotels_eda_analysis
-file: Aprendizaje no supervisado
+- file: Hotels_eda_analysis
+ numbered: true
+- part: Machine Learning I
+  chapters:
+  - file: Aprendizajenosupervisado
