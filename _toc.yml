@@ -1,5 +1,4 @@
 - file: Hotels_eda_analysis
- numbered: true
 - part: Machine Learning I
   chapters:
   - file: Aprendizajenosupervisado
