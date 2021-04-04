@@ -1,5 +1,4 @@
 - file: Hotels_eda_analysis
 
-- part: Machine Learning I
-    chapters:
-    - file: Aprendizajenosupervisado
+
+- file: Aprendizajenosupervisado
