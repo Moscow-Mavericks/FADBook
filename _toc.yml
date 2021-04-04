@@ -1,6 +1,5 @@
 - file: Hotels_eda_analysis
 
 - part: Machine Learning I
-    numbered: true
     sections:
     - file: Aprendizajenosupervisado.ipynb
