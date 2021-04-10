@@ -12,6 +12,7 @@ exclude_patterns: ["**.ipynb_checkpoints"]
 execute:
   execute_notebooks: force
   timeout: -1
+  stderr_output: remove
 
 # Define the name of the latex output file for PDF builds
 latex:
